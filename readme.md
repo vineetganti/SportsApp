@@ -664,10 +664,9 @@ edges reach the screen edges — filling all remaining space beneath the header.
 1. Clone the repo: `git clone https://github.com/vineetganti/SportsApp.git`
 2. Open in Android Studio
 3. Let Gradle sync finish
-4. [ Any other steps — API keys, emulator setup, etc. ]
-5. Hit ▶ Run
+4. Hit ▶ Run
 
-**Min Android version required:** [ e.g., Android 7.0 (API 24) ]
+**Min Android version required:** Android 7.0 (API 24)
 
 ---
 
